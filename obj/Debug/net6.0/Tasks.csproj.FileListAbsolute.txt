@@ -1,0 +1,30 @@
+/home/shanu/Documents/Tasks/bin/Debug/net6.0/Tasks
+/home/shanu/Documents/Tasks/bin/Debug/net6.0/Tasks.deps.json
+/home/shanu/Documents/Tasks/bin/Debug/net6.0/Tasks.runtimeconfig.json
+/home/shanu/Documents/Tasks/bin/Debug/net6.0/Tasks.dll
+/home/shanu/Documents/Tasks/bin/Debug/net6.0/ref/Tasks.dll
+/home/shanu/Documents/Tasks/bin/Debug/net6.0/Tasks.pdb
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.csproj.AssemblyReference.cache
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfoInputs.cache
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfo.cs
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.csproj.CoreCompileInputs.cache
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.dll
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/ref/Tasks.dll
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.pdb
+/home/shanu/Documents/Tasks/obj/Debug/net6.0/Tasks.genruntimeconfig.cache
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/bin/Debug/net6.0/Tasks
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/bin/Debug/net6.0/Tasks.deps.json
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/bin/Debug/net6.0/Tasks.runtimeconfig.json
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/bin/Debug/net6.0/Tasks.dll
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/bin/Debug/net6.0/ref/Tasks.dll
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/bin/Debug/net6.0/Tasks.pdb
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.csproj.AssemblyReference.cache
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.AssemblyInfoInputs.cache
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.AssemblyInfo.cs
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.csproj.CoreCompileInputs.cache
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.dll
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/ref/Tasks.dll
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.pdb
+/media/shanu/DATA/Game Train Tasks/Hacker-Rank-Problems/obj/Debug/net6.0/Tasks.genruntimeconfig.cache
