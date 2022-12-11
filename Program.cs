@@ -3,6 +3,7 @@
 // stairCase.stc();
 // strongPassword.minimumNumber();
 // birthdayCake.bCC();
-GradeStudents.gradingStudents();
+// GradeStudents.gradingStudents();
+MigratoryBirds.MigratoryBirdsType();
 Console.WriteLine("Hello, World!");
 

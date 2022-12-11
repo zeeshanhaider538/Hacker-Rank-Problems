@@ -1,0 +1,30 @@
+using System;
+
+public class MigratoryBirds
+{
+    public static void MigratoryBirdsType()
+    {
+        // Console.WriteLine ("Hello Mono World");
+        int[] birds={1,2,3,4,5,4,3,2,1,3,4};
+        var typeCount= new int[5];
+        for(int i=0;i<birds.Length;i++){
+            typeCount[birds[i]-1]++;
+        }
+        int maxType=typeCount[0];
+        int birdType=1;
+        
+        for(int j=0;j<5;j++){
+            // Console.WriteLine(typeCount[j]);
+            if (typeCount[j]>maxType)
+            {
+                maxType=typeCount[j];
+                birdType=j+1;
+            }
+            if(typeCount[j]==maxType && j+1<birdType){
+                birdType=j+1;
+            }
+            
+        }
+        Console.WriteLine(birdType);
+    }
+}
