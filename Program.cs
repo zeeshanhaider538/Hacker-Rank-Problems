@@ -2,6 +2,7 @@
 // HelloWorld.plusMinus();
 // stairCase.stc();
 // strongPassword.minimumNumber();
-birthdayCake.bCC();
+// birthdayCake.bCC();
+GradeStudents.gradingStudents();
 Console.WriteLine("Hello, World!");
 
