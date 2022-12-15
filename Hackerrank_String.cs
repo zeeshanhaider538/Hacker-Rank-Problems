@@ -1,16 +1,16 @@
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
-using System;
+// using System.CodeDom.Compiler;
+// using System.Collections.Generic;
+// using System.Collections;
+// using System.ComponentModel;
+// using System.Diagnostics.CodeAnalysis;
+// using System.Globalization;
+// using System.IO;
+// using System.Linq;
+// using System.Reflection;
+// using System.Runtime.Serialization;
+// using System.Text.RegularExpressions;
+// using System.Text;
+// using System;
 
 public class HackerRank_String
 {
@@ -23,7 +23,7 @@ public class HackerRank_String
      */
 
     // public static string hackerrankInString(string s)
-    public static string hackerrankInString()
+    public static void hackerrankInString()
     {
         string s="hhaacckkekraraannk";
         string result="NO";
@@ -41,13 +41,13 @@ public class HackerRank_String
                     }
                 }
             }
+            Console.WriteLine(result);
         }
         else{
             // return result;
             Console.WriteLine(result);
         }
         // return result;
-        Console.WriteLine(result);
     }
 
 }
