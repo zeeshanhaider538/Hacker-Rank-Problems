@@ -5,7 +5,8 @@
 // birthdayCake.bCC();
 // GradeStudents.gradingStudents();
 // MigratoryBirds.MigratoryBirdsType();
-HackerRank_String.hackerrankInString();
+// HackerRank_String.hackerrankInString();
 // CamelCase.camelcase();
+ArraySum.simpleArraySum();
 Console.WriteLine("Hello, World!");
 
