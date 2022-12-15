@@ -4,6 +4,7 @@
 // strongPassword.minimumNumber();
 // birthdayCake.bCC();
 // GradeStudents.gradingStudents();
-MigratoryBirds.MigratoryBirdsType();
+// MigratoryBirds.MigratoryBirdsType();
+HackerRank_String.hackerrankInString();
 Console.WriteLine("Hello, World!");
 
