@@ -7,6 +7,7 @@
 // MigratoryBirds.MigratoryBirdsType();
 // HackerRank_String.hackerrankInString();
 // CamelCase.camelcase();
-ArraySum.simpleArraySum();
+// ArraySum.simpleArraySum();
+// DiagnoalDifference.diagonalDifference()
 Console.WriteLine("Hello, World!");
 
